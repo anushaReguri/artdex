@@ -20,3 +20,11 @@
     color: black;
     height: auto;
 }
+
+.m-r-10 {
+    margin-right: 10px !important;
+}
+
+.apply-color {
+    color: red;
+}
